@@ -1,10 +1,10 @@
 ![炼丹笔记](https://pic1.zhimg.com/v2-071e132c7353c2be34deb925be1bf617_1440w.jpg "DOTA")
 # KDD CUP 2021 Multi-dataset Time Series Anomaly Detection
-### 作者： DOTA  
-### 详解： [KDD Cup 2021：时间序列异常检测问题开源Baseline](https://mp.weixin.qq.com/s/BVVYuQuvVgNZ9VDe7bLBAw)  
-### 知乎： [KDD Cup 2021：时间序列异常检测问题开源方案](https://zhuanlan.zhihu.com/p/88257675)  
-### 数据： [KDD Cup 2021 Time Series Anomaly Detection](https://compete.hexagon-ml.com/practice/competition/39/)
-### 微信公众号： 炼丹笔记 
+#### 作者： DOTA  
+#### 详解： [KDD Cup 2021：时间序列异常检测问题开源Baseline](https://mp.weixin.qq.com/s/BVVYuQuvVgNZ9VDe7bLBAw)  
+#### 知乎： [KDD Cup 2021：时间序列异常检测问题开源方案](https://zhuanlan.zhihu.com/p/88257675)  
+#### 数据： [KDD Cup 2021 Time Series Anomaly Detection](https://compete.hexagon-ml.com/practice/competition/39/)
+#### 微信公众号： 炼丹笔记 
 
 
 #### KDD Cup 2021：时间序列异常检测  
